@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tqwVFayhEiOpM/MJXGxfzf/fcI7GjuEhCzwTFmcpR0Bj+WN9fluPiyrVvlgJ2XavXxu6DjNYJJtT5xoB6EaTqw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Being\\Downloads\\Compressed\\betacrew_exchange_server\\betacrew_exchange_server\\BetaCrewClient\\BetaCrewClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Being\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

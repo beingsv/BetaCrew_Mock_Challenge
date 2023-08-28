@@ -1,0 +1,17 @@
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\bin\Debug\net7.0\BetaCrewClient.exe
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\bin\Debug\net7.0\BetaCrewClient.deps.json
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\bin\Debug\net7.0\BetaCrewClient.runtimeconfig.json
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\bin\Debug\net7.0\BetaCrewClient.dll
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\bin\Debug\net7.0\BetaCrewClient.pdb
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\obj\Debug\net7.0\BetaCrewClient.csproj.AssemblyReference.cache
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\obj\Debug\net7.0\BetaCrewClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\obj\Debug\net7.0\BetaCrewClient.AssemblyInfoInputs.cache
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\obj\Debug\net7.0\BetaCrewClient.AssemblyInfo.cs
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\obj\Debug\net7.0\BetaCrewClient.csproj.CoreCompileInputs.cache
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\obj\Debug\net7.0\BetaCrewClient.csproj.CopyComplete
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\obj\Debug\net7.0\BetaCrewClient.dll
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\obj\Debug\net7.0\refint\BetaCrewClient.dll
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\obj\Debug\net7.0\BetaCrewClient.pdb
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\obj\Debug\net7.0\BetaCrewClient.genruntimeconfig.cache
+C:\Users\Being\Downloads\Compressed\betacrew_exchange_server\betacrew_exchange_server\BetaCrewClient\obj\Debug\net7.0\ref\BetaCrewClient.dll
